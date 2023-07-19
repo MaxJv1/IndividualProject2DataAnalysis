@@ -167,10 +167,6 @@ The downward trend in quality may be a direct consecuence of the lack of digital
       <li>🐼Pandas.<b></li>
       <li><b>📈Matplotlib.</li>
       <li><b>📈Seaborn.</li>
-      <li><b>📊 Scikit Learn.</li>
-      <li><b>📳FastAPI.</li>
-      <li><b>🦄Uvicorn.</li>
-      <li><b>🌐Render.</li>
     </ul>
   </div>
  
