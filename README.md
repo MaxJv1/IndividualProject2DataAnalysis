@@ -5,11 +5,13 @@ This project is about analysing TELCOM sector in Argentina. The argentinian TELC
 
 I will go through two preprocessing parts and a reporting part:
 
-    I. It will be used 11 datasets(from Enacom) in ETL and merge them into 5 meaningful tables from my point of view.
+    I. I had 11 datasets(from Enacom) in ETL and merged them into 5 meaningful tables from my point of view.
        See ETLs.ipynb file.
-   II. I will explore the data and write some insights about the findings.
-       See EDAs.ipynb file.
-  III. I am going to do a dashboard which will be explained in more detail with the help of EDA.
+   
+    II. I will explore the data and write some insights about the findings.
+        See EDAs.ipynb file.
+   
+    III. I am going to do a dashboard which will be explained in more detail with the help of EDA.
 
 This project will try to cope the following aspects (targets) analysing the data:
 
@@ -18,7 +20,7 @@ This project will try to cope the following aspects (targets) analysing the data
       3. Profitability of the market.
       4. Which connectivity tecnologies are available in Argentina.
 
-# Part I: ETL
+## Part I: ETL
 
 I grouped the datasets as follows: 
 
@@ -47,7 +49,7 @@ TABLA 5: NUMERO DE ACCESOS AL SERVICIO DE INTERNET FIJO POR VELOCIDAD DE BAJADA 
 
   1. Número de accesos al servicio de Internet fijo por velocidad de bajada en cada localidad declarada.
 
-# Part II: EDA
+## Part II: EDA
 
 These steps will lead the dashboard mainly:
 
@@ -61,11 +63,13 @@ These steps will lead the dashboard mainly:
   8. Graph 14: Internet access percentages by technology.
   9. Table 4.1: Available internet technologies by aregentinian province.
 
-# Part III: Dashboard
-      
+## Part III: Dashboard
+
+   #### Dashboard A:Accessibility vs Quality
+   
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/0975353e-3cb9-407d-a7c2-49fb5484db2d)
 
-# III.1 Internet access in Argentina.
+### III.1 Internet access in Argentina.
 
 The internet access by every 100 household has increased since 2014, when it was 37 on average. It reached 67 on average(2022) in just 9 years.
 
@@ -81,7 +85,7 @@ Average: 49.06574 C/100 Household.
 
 If we set a KPI target of a internet access of 80 households out of 100 on average, Argentina would be close to get the goal.
 
-An other way to see the access to internet is with variable Total velocidad bajada by Province, this shows something interesting about the internet access.
+An other way to see the access to internet is with variable Total velocidad bajada by Province, this shows something interesting about internet access in Argentina.
 
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/2a389cd4-dc1d-414a-9b28-9e1e3a72609e)
 
@@ -90,36 +94,63 @@ Setting as Benchmark the average of "Total de velocidad de bajada(como proxy de 
  
 The other 20 provinces might mean a good opportunity for potential markets analysing the reasons or why they do not have a good internet access in terms of quantity and quality.
 
-# III.2 Quality of the service.
+### III.2 Quality of the service.
 
-The KPIs Promedio de Acceso a internet por velocidad de bajada and Tasa de crecimiento de MBPS both in red show that untill 2021 the internet access has increased steadily from 2014 but growth rate of MBPS did not increase. In fact, the MBPS growth rate decreased from 15 % to 6%(in nominal terms the mbps is around 60 mbps) while the internet access by Velocidad bajada increased untill 2021.
+The KPIs Promedio de Acceso a internet por velocidad de bajada and Tasa de crecimiento de MBPS are both in red show that untill 2021 the internet access has increased steadily from 2014 but growth rate of MBPS did not increase. In fact, the MBPS growth rate decreased from 15 % to 6%(in nominal terms the mbps is around 60 mbps) while the internet access by Velocidad bajada increased untill 2021.
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/a22b5dc5-3ac4-4e67-bdd3-0d53841d0fd6)
 
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/cad56f49-06d8-4b9a-924d-809e5df13ad6)
 
 
-# III.3 Profitability of the market.
+### III.3 Profitability of the market.
 
-The amount of users or internet access measured by Promedio de acceso a internet por velocidad bajada might have a negative trend but revenues by type of technology used to provide internet have increased.
+The amount of users or internet access measured by Promedio de acceso a internet por velocidad bajada might have a negative trend but revenues by type of technology used to provide internet have increased. The KPI Forecast ingresos shows a revenue of 183M by 2022 (with a goal of 200M) and the trend Evolucion Ingresos strengthens the first statementon this section. 
+
+ #### Dashboard B: Revenues trend and revenues by technology
 
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/f1aafd48-8a0e-403c-ad37-6fe4cefae141)
 
-Until 2017 the download speed increased (more MBPS), but the use of ADSL in the provision of the service began to skyrocket, fiber optics continued without being used intensively and since 2017 ADSL gradually ceased to be used.
+The most profitable technology is Cablemodem with 101M(miles de pesos). The second is fiber optic with 44M and third ADSL with 25M. Most of the profits come from provinces like Buenos Aires(1st), Capital Federal(2nd), Cordoba(3rd) and Santa Fe(4th). 
 
-Internet access has increased faster than the implementation of technologies that can cover or face the new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 faster than a best cable connection.
+Until 2017 the download speed increased (see dashboard A), but the use of ADSL in the provision of the service began to skyrocket, fiber optics continued without being used intensively and since 2017 ADSL gradually ceased to be used.
 
-# III.4 Which connectivity tecnologies are available in Argentina.
+Internet access has increased faster than the implementation of technologies that can cover or face a new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 faster than a best cable connection.
+
+### III.4 Which connectivity tecnologies are available in Argentina.
+
+#### Dashboard C: Revenues trend and revenues by technology
 
   ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/edee1835-8a15-4fac-bc96-4765b95e7137)
 
+Internet user connect to internet using technologies like: 
 
-# IV. Conclusions
+   1. 4G.
+   2. Wireless.
+   3. Telefoniafija.
+   4. 3G.
+   5. Satelital.
+   6. Fibraoptica
+   7. ADSL.
+   8. Cablemodem.
+
+As the list shows those technologies that are powerful in terms of speed of download and upload like fiber optic, ADSL and Cablemodem are at the bottom what means each time a new internet access is created, it might have problems like streaming in HD in platforms like youtube, Netflix or work from home. Although fiber optic, ADSL and Cablemodem can be found in the main cities from where the profits come importantly, they might have problems in terms of quality (mbps) according to the analysis above.
+
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/b5c2196a-3950-45be-bc3c-9e97cb910631)
+
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/d6272114-156e-4124-9372-9e66b7ba9b3a)
+
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/a0a64162-1131-49cc-b1a9-6d48eae7d902)
+
+
+## IV. Conclusions
 
 Accessibility to the service increased between 2014 and 2022 but its quality shows a negative trend.The volume of users shows a downward trend as well.
 
 Cablemoden has skyrocketed since 2017 while there was no much invesment in fiber optic red and the accessibility to internet increased steadily until 2021.
 
 The revenue has still increased which clearly shows that profits are led by prices more than new internet users.
+
+The downward trend in quality may be a direct consecuence of the lack of digital infraestructure (see profits by technology ) like fiber optic, the no optimization of existent digital infraestructure or both.
 
 # Tools:
 
