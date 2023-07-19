@@ -52,20 +52,102 @@ TABLA 5: NUMERO DE ACCESOS AL SERVICIO DE INTERNET FIJO POR VELOCIDAD DE BAJADA 
 
 These steps will lead the dashboard mainly:
 
-  Graph 1 : Quarterly Trend of the Average Internet Access by Total Velocidad Bajada.
-  Graph 2: Internet access for every 100 Household by argentinian province.
-  Graph 4: Quarterly trend of the average download speed (ranges).
-  Table 1.2: Quarterly rate growth by dowload speed (ranges).
-  Table 2.2: Participacion of each access internet technology type (over Total_acceso_Tipotecnologia).
-  Graph 9: Revenue trend by technology.
-  Graph 11: Quarterly growth rate MBPS.
-  Graph 14: Internet access percentages by technology.
-  Table 4.1: Available internet technologies by aregentinian province.
+  1. Graph 1 : Quarterly Trend of the Average Internet Access by Total Velocidad Bajada.
+  2. Graph 2: Internet access for every 100 Household by argentinian province.
+  3. Graph 4: Quarterly trend of the average download speed (ranges).
+  4. Table 1.2: Quarterly rate growth by dowload speed (ranges).
+  5. Table 2.2: Participacion of each access internet technology type (over Total_acceso_Tipotecnologia).
+  6. Graph 9: Revenue trend by technology.
+  7. Graph 11: Quarterly growth rate MBPS.
+  8. Graph 14: Internet access percentages by technology.
+  9. Table 4.1: Available internet technologies by aregentinian province.
 
 # Part III: Dashboard
       
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/0975353e-3cb9-407d-a7c2-49fb5484db2d)
 
+III.1 Internet access in Argentina.
+
+The internet access by every 100 household has increased since 2014, when it was 37 on average. It reached 67 on average(2022) in just 9 years.
+
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/f6fc7981-df3f-4bf7-8ae3-67288c806290)
+
+Capital Federal, Tierra del Fuego and La Pampa are the 3 provincies with more access by every 100 households and they are in the third percentile. 
+
+Capital Federal, Tierra del Fuego, La Pampa, Cordoba, Chubut, San Luis, La Rioja, Neuquen, Santa Fe, Buenos Aires, Rio Negro, Catamarca, Entre Rios, Tucuman, Jujuy, Salta, Santiago del Estero, Misiones, Mendoza and San Juan have access above the average.
+
+Corrientes, Chaco, Formosa y Santa Cruz have internet access under the average.
+
+Average: 49.06574 C/100 Household.
+
+If we set a KPI target of a internet access of 80 households out of 100 on average, Argentina would be close to get the goal.
+
+An other way to see the access to internet is with variable Total velocidad bajada by Province, this shows something interesting about the internet access.
+
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/2a389cd4-dc1d-414a-9b28-9e1e3a72609e)
+
+Setting as Benchmark the average of "Total de velocidad de bajada(como proxy de acceso a internet)".
+4 provinces out of 24 have internet access above the benchmark. These provinces are Buenos Aires, Capital Federal, Cordoba and Santa Fe. This doesnt only show inequalities in internet access, but in quality. 
+ 
+The other 20 provinces might mean a good opportunity for potential markets analysing the reasons or why they do not have a good internet access in terms of quantity and quality.
+
+III.2 Quality of the service.
+
+The KPIs Promedio de Acceso a internet por velocidad de bajada and Tasa de crecimiento de MBPS both in red show that untill 2021 the internet access has increased steadily from 2014 but growth rate of MBPS did not increase. In fact, the MBPS growth rate decreased from 15 % to 6%(in nominal terms the mbps is around 60 mbps) while the internet access by Velocidad bajada increased untill 2021.
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/a22b5dc5-3ac4-4e67-bdd3-0d53841d0fd6)
+
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/cad56f49-06d8-4b9a-924d-809e5df13ad6)
 
 
-  
+III.3 Profitability of the market.
+
+The amount of users or internet access measured by Promedio de acceso a internet por velocidad bajada might have a negative trend but revenues by type of technology used to provide internet have increased.
+
+![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/f1aafd48-8a0e-403c-ad37-6fe4cefae141)
+
+Until 2017 the download speed increased (more MBPS), but the use of ADSL in the provision of the service began to skyrocket, fiber optics continued without being used intensively and since 2017 ADSL gradually ceased to be used.
+
+Internet access has increased faster than the implementation of technologies that can cover or face the new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 faster than a best cable connection.
+
+III.4 Which connectivity tecnologies are available in Argentina.
+
+  ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/edee1835-8a15-4fac-bc96-4765b95e7137)
+
+
+IV. Conclusions
+
+Accessibility to the service increased between 2014 and 2022 but its quality shows a negative trend.The volume of users shows a downward trend as well.
+
+Cablemoden has skyrocketed since 2017 while there was no much invesment in fiber optic red and the accessibility to internet increased steadily until 2021.
+
+The revenue has still increased which clearly shows that profits are led by prices more than new internet users.
+
+# Tools:
+
+<div style="display:flex; align-items:center;">
+  <div style="width:50%; padding-right:20px;">
+    <h2>Herramientas Utilizadas</h2>
+    <ul style="text-align: justify;">
+      <li><b>🐍Python.</li>
+      <li><b>📈Power BI.</li>
+      <li><b>💻Numpy.</li>
+      <li>🐼Pandas.<b></li>
+      <li><b>📈Matplotlib.</li>
+      <li><b>📈Seaborn.</li>
+      <li><b>📊 Scikit Learn.</li>
+      <li><b>📳FastAPI.</li>
+      <li><b>🦄Uvicorn.</li>
+      <li><b>🌐Render.</li>
+    </ul>
+  </div>
+ 
+
+
+# Autor
+
+Max Jeffer Cuellar Vizcarra
+
+Correo electrónico: max_83_14@hotmail.com
+
+LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/max-jeffer-cuellar-vizcarra-25197433/)
+
