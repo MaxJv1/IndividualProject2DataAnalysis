@@ -6,7 +6,7 @@ This project is about analysing TELCOM sector in Argentina. The argentinian TELC
 
 I will go through two preprocessing parts and a reporting part:
 
-    I. It will used 11 datasets(from Enacom) in ETL and merge them into 5 meaningful tables from my point of view.
+    I. It will be used 11 datasets(from Enacom) in ETL and merge them into 5 meaningful tables from my point of view.
        See ETLs.ipynb file.
    II. I will explore the data and write some insights about the findings.
        See EDAs.ipynb file.
