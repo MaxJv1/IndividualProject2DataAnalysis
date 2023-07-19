@@ -1,5 +1,8 @@
 
 <h1 align="center">TELCOMs IN ARGENTINA 2014 - 2022 </h1>
+
+![telecom industry](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/ce533937-0ab5-452f-b79a-c8a00ef0f7b7)
+
  
 This project is about analysing TELCOM sector in Argentina. The argentinian TELCOM market is a relatively well developed market with more than 62.12 million internet connections and it has evolved notably in accessibility since 2014.
 
