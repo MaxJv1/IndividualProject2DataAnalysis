@@ -1,8 +1,7 @@
-# IndividualProject2
-# IndividualProject2DataAnalysis
-  # TELCOMs IN ARGENTINA
 
-This project is about analysing TELCOM sector in Argentina. The argentinian TELCOM market is a relatively well developed market with more than 62.12 million internet connections.
+<h1 align="center">TELCOMs IN ARGENTINA</h1>
+ 
+This project is about analysing TELCOM sector in Argentina. The argentinian TELCOM market is a relatively well developed market with more than 62.12 million internet connections and it has evolved notably in accessibility since 2014.
 
 I will go through two preprocessing parts and a reporting part:
 
@@ -143,7 +142,7 @@ The revenue has still increased which clearly shows that profits are led by pric
  
 
 
-# Autor
+# Author
 
 Max Jeffer Cuellar Vizcarra
 
