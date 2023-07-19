@@ -66,7 +66,7 @@ These steps will lead the dashboard mainly:
       
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/0975353e-3cb9-407d-a7c2-49fb5484db2d)
 
-III.1 Internet access in Argentina.
+# III.1 Internet access in Argentina.
 
 The internet access by every 100 household has increased since 2014, when it was 37 on average. It reached 67 on average(2022) in just 9 years.
 
@@ -91,7 +91,7 @@ Setting as Benchmark the average of "Total de velocidad de bajada(como proxy de 
  
 The other 20 provinces might mean a good opportunity for potential markets analysing the reasons or why they do not have a good internet access in terms of quantity and quality.
 
-III.2 Quality of the service.
+# III.2 Quality of the service.
 
 The KPIs Promedio de Acceso a internet por velocidad de bajada and Tasa de crecimiento de MBPS both in red show that untill 2021 the internet access has increased steadily from 2014 but growth rate of MBPS did not increase. In fact, the MBPS growth rate decreased from 15 % to 6%(in nominal terms the mbps is around 60 mbps) while the internet access by Velocidad bajada increased untill 2021.
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/a22b5dc5-3ac4-4e67-bdd3-0d53841d0fd6)
@@ -99,7 +99,7 @@ The KPIs Promedio de Acceso a internet por velocidad de bajada and Tasa de creci
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/cad56f49-06d8-4b9a-924d-809e5df13ad6)
 
 
-III.3 Profitability of the market.
+# III.3 Profitability of the market.
 
 The amount of users or internet access measured by Promedio de acceso a internet por velocidad bajada might have a negative trend but revenues by type of technology used to provide internet have increased.
 
@@ -109,12 +109,12 @@ Until 2017 the download speed increased (more MBPS), but the use of ADSL in the 
 
 Internet access has increased faster than the implementation of technologies that can cover or face the new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 faster than a best cable connection.
 
-III.4 Which connectivity tecnologies are available in Argentina.
+# III.4 Which connectivity tecnologies are available in Argentina.
 
   ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/edee1835-8a15-4fac-bc96-4765b95e7137)
 
 
-IV. Conclusions
+# IV. Conclusions
 
 Accessibility to the service increased between 2014 and 2022 but its quality shows a negative trend.The volume of users shows a downward trend as well.
 
