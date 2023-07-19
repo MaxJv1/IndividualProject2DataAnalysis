@@ -1,5 +1,5 @@
 
-<h1 align="center">TELCOMs IN ARGENTINA 2014 - 2022 </h1>
+<h1 align="center">TELCOMs ANALYSIS IN ARGENTINA 2014 - 2022 </h1>
 
 ![telecom industry](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/ce533937-0ab5-452f-b79a-c8a00ef0f7b7)
 
