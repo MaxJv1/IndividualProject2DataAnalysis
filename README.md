@@ -1,6 +1,6 @@
 # IndividualProject2
 # IndividualProject2DataAnalysis
-                                        # TELCOMs IN ARGENTINA
+  # TELCOMs IN ARGENTINA
 
 This project is about analysing TELCOM sector in Argentina. The argentinian TELCOM market is a relatively well developed market with more than 62.12 million internet connections.
 
