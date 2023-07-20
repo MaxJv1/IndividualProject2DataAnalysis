@@ -99,7 +99,7 @@ The other 20 provinces might mean a good opportunity for potential markets analy
 
 ### III.2 Quality of the service.
 
-The KPIs Promedio de Acceso a internet por velocidad de bajada and Tasa de crecimiento de MBPS are both in red show that untill 2021 the internet access has increased steadily from 2014 but growth rate of MBPS did not increase. In fact, the MBPS growth rate decreased from 15 % to 6%(in nominal terms the mbps is around 60 mbps) while the internet access by Velocidad bajada increased untill 2021.
+The KPIs Promedio de Acceso a internet por velocidad de bajada and Tasa de crecimiento de MBPS are both in red show that untill 2021 the internet access has increased steadily from 2014 but growth rate of MBPS did not increase. In fact, the MBPS growth rate decreased from 15 % in 2019 to 6% in 2022(in nominal terms the mbps is around 60 mbps) while the internet access by Velocidad bajada increased untill 2021.
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/a22b5dc5-3ac4-4e67-bdd3-0d53841d0fd6)
 
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/cad56f49-06d8-4b9a-924d-809e5df13ad6)
