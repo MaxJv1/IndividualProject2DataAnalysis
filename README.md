@@ -115,7 +115,7 @@ The amount of users or internet access measured by Promedio de acceso a internet
 
 The most profitable technology is Cablemodem with 101M(miles de pesos). The second is fiber optic with 44M and third ADSL with 25M. Most of the profits come from provinces like Buenos Aires(1st), Capital Federal(2nd), Cordoba(3rd) and Santa Fe(4th). 
 
-Until 2017 the download speed increased (see dashboard A), but the use of ADSL in the provision of the service began to skyrocket, fiber optics continued without being used intensively and since 2017 ADSL gradually ceased to be used.
+Until 2017 the download speed increased (see dashboard A), but the use of CABLEMODEM in the provision of the service began to skyrocket, fiber optics continued without being used intensively and since 2017 ADSL gradually ceased to be used.
 
 Internet access has increased faster than the implementation of technologies that can cover or face a new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 faster than a best cable connection.
 
