@@ -147,7 +147,7 @@ As the list shows those technologies that are powerful in terms of speed of down
 
 ## IV. Conclusions
 
-Accessibility to the service increased between 2014 and 2022 but its quality shows a negative trend.The volume of users shows a downward trend as well.
+Accessibility to the service increased between 2014 and 2022 but its quality shows a negative trend. The volume of users(Velocidad descarga) shows a downward trend as well.
 
 Cablemoden has skyrocketed since 2017 while there was no much invesment in fiber optic red and the accessibility to internet increased steadily until 2021.
 
