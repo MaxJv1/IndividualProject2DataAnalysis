@@ -54,7 +54,7 @@ TABLA 5: NUMERO DE ACCESOS AL SERVICIO DE INTERNET FIJO POR VELOCIDAD DE BAJADA 
 
 ## Part II: EDA
 
-These steps will lead the dashboard mainly:
+These steps will lead mainly the dashboard:
 
   1. Graph 1 : Quarterly Trend of the Average Internet Access by Total Velocidad Bajada.
   2. Graph 2: Internet access for every 100 Household by argentinian province.
