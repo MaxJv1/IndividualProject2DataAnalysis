@@ -119,13 +119,13 @@ Until 2017 the download speed increased (see dashboard A), but the use of ADSL i
 
 Internet access has increased faster than the implementation of technologies that can cover or face a new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 faster than a best cable connection.
 
-### III.4 Which connectivity tecnologies are available in Argentina.
+### III.4 Which connectivity technologies are available in Argentina.
 
-#### Dashboard C: Revenues trend and revenues by technology
+#### Dashboard C: Access to connectivity technologies
 
   ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/edee1835-8a15-4fac-bc96-4765b95e7137)
 
-Internet user connect to internet using technologies like: 
+Internet users connect to internet using technologies like: 
 
    1. 4G.
    2. Wireless.
