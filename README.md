@@ -78,7 +78,7 @@ The internet access by every 100 household has increased since 2014, when it was
 
 ![image](https://github.com/MaxJv1/IndividualProject2DataAnalysis/assets/138952349/f6fc7981-df3f-4bf7-8ae3-67288c806290)
 
-Capital Federal, Tierra del Fuego and La Pampa are the 3 provincies with more access by every 100 households and they are in the third percentile. 
+Capital Federal, Tierra del Fuego and La Pampa are the 3 provinces with more access by every 100 households and they are in the third percentile. 
 
 Capital Federal, Tierra del Fuego, La Pampa, Cordoba, Chubut, San Luis, La Rioja, Neuquen, Santa Fe, Buenos Aires, Rio Negro, Catamarca, Entre Rios, Tucuman, Jujuy, Salta, Santiago del Estero, Misiones, Mendoza and San Juan have access above the average.
 
