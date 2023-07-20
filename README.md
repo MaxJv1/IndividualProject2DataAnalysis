@@ -153,7 +153,7 @@ Cablemoden has skyrocketed since 2017 while there was no much invesment in fiber
 
 The revenue has still increased which clearly shows that profits are led by prices more than new internet users.
 
-The downward trend in quality may be a direct consecuence of the lack of digital infraestructure (see profits by technology ) like fiber optic, the no optimization of existent digital infraestructure or both.
+The downward trend in quality may be a direct consequence of the lack of digital infraestructure (see profits by technology ) like fiber optic, the no optimization of existent digital infraestructure or both.
 
 # Tools:
 
