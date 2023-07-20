@@ -117,7 +117,7 @@ The most profitable technology is Cablemodem with 101M(miles de pesos). The seco
 
 Until 2017 the download speed increased (see dashboard A), but the use of CABLEMODEM in the provision of the service began to skyrocket, fiber optics continued without being used intensively and since 2017 ADSL gradually ceased to be used.
 
-Internet access has increased faster than the implementation of technologies that can cover or face a new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 faster than a best cable connection.
+Internet access has increased faster than the implementation of technologies that can cover or face a new demand for internet services. If we talk about fiber optic speed, internet can reach speeds of between 250 and 1000 Mbps, both upload and download. This makes fiber optic 5 times faster than a best cable connection.
 
 ### III.4 Which connectivity technologies are available in Argentina.
 
